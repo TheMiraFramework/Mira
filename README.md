@@ -1,4 +1,4 @@
-# mira
+# MIRA
 
 ![Mira](banner.png)
 
