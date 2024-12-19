@@ -1,6 +1,6 @@
 # mira
 
-![Mira](.github/banner.png)
+![Mira](.banner.png)
 
 mira is a powerful agent framework seamlessly integrated with the Dojo stack, empowering developers to bring their games and applications to life with intelligent, autonomous agents. Whether you need NPCs that feel truly alive, dynamic storytellers that craft compelling narratives, or natural language interfaces that let players interact with your world in intuitive ways - mira makes it possible.
 
